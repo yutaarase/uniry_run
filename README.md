@@ -32,8 +32,11 @@
 
 # Usage
 
-Projectを開きたい場合は、Unityで開いてください。
-
+* Projectを開きたい場合は、Unityで開いてください。
+* 各環境実行ファイルはここから
+[ダウンロード](https://github.com/yutaarase/uniry_run/releases/tag/v1.0.0)
+してください。
+* SaveするとDatファイルを書き出すので、ダウンロードしたZipをそのまま展開し、使用してください。Datファイルを削除するとデータが消えます。
 
 # Author
 
