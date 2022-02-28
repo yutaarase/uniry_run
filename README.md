@@ -45,11 +45,11 @@ Projectを開きたい場合は、Unityで開いてください。
 "Shoot The Invaders" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 # Others
-**お借りしたコード**
-
-
 **参考にさせて頂いたサイト**
-
+* [ProBuilder](https://3dcg-school.pro/unity-probuilder-tutorial/)
+で足場を作成するときに参考にさせて頂きました。
+* [ダブルタップ](https://qiita.com/morio36/items/3de164d6131c902af9bd)
+で走る(ダブルタップスプリント)の実装に参考にさせて頂きました。
 
 **注意事項**
 * 公序良俗に反する使用を禁止します。
