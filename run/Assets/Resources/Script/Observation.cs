@@ -18,10 +18,11 @@ public class Observation : MonoBehaviour
         manager = GameObject.Find("GameManager");
     }
 
+
     private void FixedUpdate()
     {
         text.text = manager.GetComponent<Manage>().cnt.ToString();
-        if(!area[0].active && !area[1].active)
+        if(!area[0].activeInHierarchy && !area[1].activeInHierarchy)
         {
             var Script = GameObject.FindGameObjectWithTag("Controller").GetComponent<SceneControl>();
             Script.score = cnt;

@@ -15,7 +15,7 @@ public class Arrive : MonoBehaviour
 
     private void OnCollisionExit(Collision collision)
     {
-        if (!area.active)
+        if (!area.activeInHierarchy)
         {
             area.SetActive(true);
             point.SetActive(false);
