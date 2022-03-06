@@ -9,7 +9,7 @@ using UnityEngine.UI;
 public class StaminaMeterControl : MonoBehaviour
 {
     [Header("体力")] public float maxStamina;
-    public bool poop = false;
+    public bool tired = false;
     public bool CntJump = false;
     public Slider StaminaMeter;
     public Image sliderImage;
@@ -69,7 +69,7 @@ public class StaminaMeterControl : MonoBehaviour
 
         if (currentStamina <= 0)
         {
-            poop = true;
+            tired = true;
         }
         else
         {
@@ -81,7 +81,7 @@ public class StaminaMeterControl : MonoBehaviour
             {
                 CntJump = false;
             }
-            poop = false;
+            tired = false;
         }
     }
 }
