@@ -33,6 +33,8 @@
 # Usage
 
 * Projectを開きたい場合は、Unityで開いてください。
+* [リポジトリへ](https://github.com/yutaarase/uniry_run)
+
 * 各環境実行ファイルはここから
 [ダウンロード](https://github.com/yutaarase/uniry_run/releases)
 してください。
