@@ -42,12 +42,19 @@
 * 解凍したフォルダの中にRUN!!.exeという実行ファイルがありますので、それを実行してください。
 * 解凍したフォルダの中身のファイル一つでも削除,破損してしまうと、Play出来なくなりますのでご注意ください。
 
+# Relate
+
+* [企画書](https://docs.google.com/presentation/d/1mAEfZTLiEfht1s9lSKHEyve0bFP6Hs0_IKi2AZPFZv4/edit?usp=sharing)
+* [設計書](https://docs.google.com/spreadsheets/d/1S8DzeRLs6RY4dEVKMLdrunQHWFCcxQYrmW0wbCGfdGA/edit?usp=sharing)
+* [制作スケジュール表](https://docs.google.com/spreadsheets/d/1WMe9JOG-L0Qk2QsYt9bYqLnkpw8B_94aT5UE5E5p8Lg/edit?usp=sharing)
+
 # Author
 
 * 荒瀬勇太
 * 九州デザイナー学院
 * arase210601@eggnet.ac.jp
 * [ポートフォリオ](https://yutaarase.github.io/)
+-現在制作中-
 
 # License
 
