@@ -8,6 +8,12 @@
 
 [![youtubeへ](https://img.youtube.com/vi/fcyu0xEVuZw/0.jpg)](https://www.youtube.com/watch?v=fcyu0xEVuZw)
 
+# Features
+
+* 個人作成のゲームで企画、設計、計画、開発を一人で行いました。
+* シャトルランの音楽と進行を統括するスクリプトを全てスクラッチで制作しました。
+* Sceneの遷移を統括するクラスもスクラッチで制作し、Shoot The Invadersのクラスを更に最適化し制作しました。
+
 # Description
 
 **移動操作**
@@ -29,6 +35,8 @@
 # Requirement
 
 開発環境 : Unity Version 2021.2.2f1
+開発期間 : 1か月
+制作期間 : 2週間
 
 # Usage
 
